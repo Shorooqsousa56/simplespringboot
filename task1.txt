@@ -1,0 +1,39 @@
+
+library management system
+
+Add new books.
+
+Display all books.
+
+Search for a book by title.
+
+Delete a book from the system.
+
+
+
+steps:
+Create a Book class with: (done)
+Attributes: id, title, author, year.
+Constructor, getters, and setters.
+
+
+Create a Library class with: 
+An ArrayList to store Book objects.
+Methods for:
+Adding a new book.
+Displaying all books.
+Searching for a book by title.
+Deleting a book by id.
+
+
+Create a Main class to: (done)
+Display a menu with options:
+1-Add Book (done)
+2-Show All Books (done)
+3-Search Book by Title (done)
+4-Delete Book(delete)
+5-Exit
+
+Bonus Points (Optional):
+1-Add exception handling for invalid inputs.
+2-Use file handling to save and retrieve the book list from a text file.
